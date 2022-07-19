@@ -22,6 +22,6 @@ sonuç-[8,11,12,16,21,22]
 
 2. Big-O Notation
 
-Worst Case = O(n*logn)
-Avarage Case = O(n*logn)
-Best Case = O(n*logn)
+-Worst Case = O(n*logn)
+-Avarage Case = O(n*logn)
+-Best Case = O(n*logn)
